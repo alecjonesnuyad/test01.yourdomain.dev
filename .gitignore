@@ -5,3 +5,6 @@ wp-includes/*
 *.txt
 *.md
 *.htaccess
+wp-content/plugins/*
+wp-content/themes/twentyfifteen
+wp-content/themes/twentyfourteen
