@@ -4,3 +4,4 @@ wp-includes/*
 *.html
 *.txt
 *.md
+*.htaccess
